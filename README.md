@@ -21,8 +21,13 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e estou sempre em busca 
 
 ### Linguagens e Ferramentas
 
-![Linguagens](https://t3.ftcdn.net/jpg/03/21/24/30/360_F_321243084_GstfWflk1eTLlzUdRZ5mjoP5IG1iCc8J.jpg)
-![Ferramentas](https://www.alura.com.br/artigos/assets/react-conheca-novidades-versao-18-react/react-conheca-novidades-versao-18-react.png)
+<div >
+    <img src="https://t3.ftcdn.net/jpg/03/21/24/30/360_F_321243084_GstfWflk1eTLlzUdRZ5mjoP5IG1iCc8J.jpg" alt="Descrição da Imagem 1" width="100">
+</div>
+<div>
+    <img src="https://www.alura.com.br/artigos/assets/react-conheca-novidades-versao-18-react/react-conheca-novidades-versao-18-react.png" alt="Descrição da Imagem 2" width="100">
+</div>
+
 
 ### Projetos Destacados
 
