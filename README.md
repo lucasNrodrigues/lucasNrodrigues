@@ -1,21 +1,43 @@
-### <h4> *Hello guys, i'm  lucas rodrigues, i'm 27 years old and i'm student of ufersa. I love study new things including new programming languages.*
- <h4>
+<!-- Seu Nome -->
+#  lucas
 
-<div align="center">
+## Olá, pessoal! 👋
+
+Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e estou sempre em busca de novos desafios e aprendizado. Bem-vindo(a) ao meu perfil do GitHub!
+
+### Sobre mim
+
+- 🌱 Atualmente estou fazendo um curso de font-end que envolve cursos como HTML, CSS, javascript e react.
+- estudo na faculdade de Tecnologia da Informacao - UFERSA - RN.
+- 💬 Pergunte-me sobre qualquer coisa relacionada à programação e tecnologia. Estou aqui para ajudar!
+- 📫 Como me alcançar: lucas.rodrigues67337@alunos.ufersa.edu.br.
+
+  <div align="center">
 
    ![gif](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
    
 </div>
 
 
+### Linguagens e Ferramentas
 
-<div align="center">
+![Linguagens](https://t3.ftcdn.net/jpg/03/21/24/30/360_F_321243084_GstfWflk1eTLlzUdRZ5mjoP5IG1iCc8J.jpg)
+![Ferramentas](https://www.alura.com.br/artigos/assets/react-conheca-novidades-versao-18-react/react-conheca-novidades-versao-18-react.png)
+
+### Projetos Destacados
+
+- [Projeto 1](link para o projeto): Uma breve descrição do projeto.
 
 
-# 📊 *GitHub Stats*:
+### Estatísticas do GitHub
 
-<a href="https://github.com/lucasNrodorigues">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasNrodrigues&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasNrodrigues&layout=compact&langs_count=7&theme=neon"/>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome&show_icons=true&theme=dark)
 
-</div>
+### Vamos Conectar!
+
+- [Linkedin](https://www.linkedin.com/in/lucas-rodrigues-30317b23a/)
+- [instagram](https://www.instagram.com/lukasr_ofc/)
+
+### Agradecimentos
+
+Obrigado por visitar meu perfil! 😃
