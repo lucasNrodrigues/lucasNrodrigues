@@ -36,7 +36,7 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia e estou sempre em busca 
 
 ### Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucas&show_icons=true&theme=dark)
 
 ### Vamos Conectar!
 
